@@ -1,4 +1,5 @@
 [![HACS Default](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
+[![Sponsor on GitHub](https://img.shields.io/badge/%E2%9D%A4%20Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Ebenhoeh80)
 ![Installation Count](https://img.shields.io/badge/dynamic/json?color=41BDF5&logo=home-assistant&label=integration%20usage&suffix=%20installs&cacheSeconds=15600&url=https://analytics.home-assistant.io/custom_integrations.json&query=$.zte_ng_router.total)
 
 # ZTE NG Router – Home Assistant Custom Integration
@@ -159,3 +160,25 @@ If neither metadata nor inbox messages identify the SMS format (for example, an
 unknown model with an empty inbox), sending is blocked with an explanatory error
 rather than guessing or sending a test SMS. SMS reads remain batched. Failed
 sends are not retried with a different encryption mode.
+
+---
+
+## ❤️ Support this project
+
+<div align="center">
+
+**This fork is maintained in my free time; the original integration is by [rosenrot00](https://github.com/rosenrot00/ha-zte-ng-router). Any voluntary contribution covers time and test hardware.**
+
+Sponsoring is voluntary and does not buy support, features or response times. Every contribution, however small, helps. Thank you! 🙏
+
+<a href="https://github.com/sponsors/Ebenhoeh80">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%20Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="42">
+</a>
+<a href="https://www.paypal.com/pool/9p84qTHCFr?sr=wccr">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%20Donate%20via%20PayPal-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" height="42">
+</a>
+<a href="https://buymeacoffee.com/daneben">
+  <img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" height="42">
+</a>
+
+</div>
